@@ -1,0 +1,1 @@
+Contains the C++ scripts used for the Arduino microcontroller. This code handles the tendon actuation, sending precise step commands to the stepper motors to physically deform the 3D-printed prototype.
